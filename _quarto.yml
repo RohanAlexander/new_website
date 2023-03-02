@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rohan Alexander"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - portfolio.qmd
+      - href: cv-academic-Rohan_Alexander.pdf
+        text: CV
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+

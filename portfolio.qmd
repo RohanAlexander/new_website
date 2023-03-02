@@ -1,0 +1,8 @@
+---
+title: "Portfolio"
+---
+
+Some of the data science projects that I have completed include: 
+
+- [Australian Politicians](https://github.com/RohanAlexander/AustralianPoliticians), which is an R package about Australian politicians.
+- [Heaps of Papers](https://github.com/RohanAlexander/heapsofpapers), which is an R package to make downloading files easier.

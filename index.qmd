@@ -1,0 +1,7 @@
+---
+title: "Rohan Alexander"
+---
+
+Welcome to my website! I am an assistant professor, jointly appointed in the Faculty of Information and the Department of Statistical Sciences, at the University of Toronto.
+
+I am particularly interested in data science, and open to job opportunities.
